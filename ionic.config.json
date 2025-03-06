@@ -1,0 +1,7 @@
+{
+  "name": "SIP_Calc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
