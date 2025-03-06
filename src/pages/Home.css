@@ -1,0 +1,50 @@
+.menu-pd {
+    margin: 2vh;
+}
+
+.banner-card {
+    background-color: #e6f4ea;
+    /* Light Green */
+    padding: 15px;
+    width: 130%;
+    margin: 0 auto;
+}
+
+.banner-content {
+    display: flex;
+    align-items: center;
+    /* Align image and text in a row */
+    gap: 15px;
+    /* Adds space between image and text */
+}
+
+.banner-image {
+    width: 50px;
+    /* Adjust image size */
+    height: auto;
+}
+
+.menu-pad {
+    margin: 2vh 0;
+}
+
+.menu-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-title img {
+    width: 4vw;
+}
+
+ion-range {
+    --bar-background: #a2d2ff;
+    --bar-background-active: #bde0fe;
+    --bar-height: 8px;
+    --bar-border-radius: 8px;
+    --knob-background: #ffc8dd;
+    --knob-size: 40px;
+    --pin-background: #ffafcc;
+    --pin-color: #fff;
+}
